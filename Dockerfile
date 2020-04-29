@@ -7,10 +7,8 @@ RUN apt-get update && \
     apt-get install -y \
     curl \
     wget \
-    vim \
     libopencv-dev \
     libmicrohttpd-dev \
-    libjsoncpp-dev \
     libcurl4-openssl-dev \
     cmake \
     git
